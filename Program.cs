@@ -10,6 +10,7 @@ namespace Assignment1._1
     {
         /// <summary>
         /// The main entry point for the application.
+        /// Start form frmMain
         /// </summary>
         [STAThread]
         static void Main()
